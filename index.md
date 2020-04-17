@@ -3,7 +3,8 @@
 2. [VSCode快捷键](./web/VSCode快捷键.md)  
 
 ## Flutter
-1. [Flutter 深入理解 State](./flutter/Flutter 深入理解 State.md)
+1. [Flutter学习笔记](./flutter/Flutter学习.md)
+2. [Flutter 深入理解 State](./flutter/Flutter 深入理解 State.md)
 2. [Flutter for Android 开发者](./flutter/Flutter for Android 开发者.md)
 3. [Flutter Widget框架概述](./flutter/Flutter Widget框架概述.md)
 4. [Flutter进阶：路由、路由栈详解](./flutter/Flutter进阶：路由、路由栈详解.md)
