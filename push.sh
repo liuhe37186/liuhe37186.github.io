@@ -1,6 +1,6 @@
 # !/usr/bin/env sh
-time = date +%F+%H:%M:%S
-echo time
+time=$(date "+%Y-%m-%d %H:%M:%S")
+echo "${time}"
 git add .
 git commit -m time
 git push
