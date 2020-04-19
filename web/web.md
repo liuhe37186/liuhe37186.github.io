@@ -2,7 +2,7 @@
 
 ## 第一阶段：HTML5 + CSS3
 
-### HTML5
+### [HTML5](https://www.runoob.com/html/html-tutorial.html)
 
 1.  浏览器与浏览器内核
 2. 语法及使用
@@ -12,7 +12,7 @@
 6. HTML 
 7.  新增标签
 
-### CSS3基础
+### [CSS3基础](https://www.runoob.com/css/css-tutorial.html)
 
 1. CSS基本语法规范
 2. 常用的选择器用法与技巧 
@@ -102,7 +102,7 @@
 23. 京东移动端首页开发
          
 
-### Bootstrap
+### [Bootstrap](https://www.runoob.com/bootstrap/bootstrap-tutorial.html)
 
 1. 传统布局的局限性
 2. 移动端屏幕介绍
@@ -113,7 +113,7 @@
 7. 移动端技术选型
 8. 移动端主流适配解决方案
 9. 移动端特殊样式
-10. 百分比布局&流失布局
+10. 百分比布局&流式布局
 11. Flex布局优势
 12. 盒子父级常见属性设置
 13. 盒子子级常见属性设置
@@ -160,7 +160,7 @@
 
 ## 第三阶段：JavaScript网页编程
 
-### JavaScript基础
+### [JavaScript基础](https://www.runoob.com/js/js-tutorial.html)
 
 1. 基本输入输出方法
 2. 变量
@@ -192,7 +192,7 @@
 6. JSON
 7. 其它常用网页特效
 
-### jQuery快速开发              
+### [jQuery快速开发](https://www.runoob.com/jquery/jquery-tutorial.html)
 
 1. jQuery的优势
 2. jQuery选择器
@@ -235,7 +235,7 @@
 
 ## 第四阶段：Node.js与AJAX
 
-### AJAX编程
+### [AJAX编程](https://www.runoob.com/ajax/ajax-tutorial.html)
 
 1. AJAX的作用
 2. 原生AJAX
@@ -256,7 +256,7 @@
 5. git远程仓库
 6. git冲突及解决方案       
 
-### ES6
+### [ES6](https://es6.ruanyifeng.com/#README)
 
 1. es6简介
 2. 新增语法
@@ -335,7 +335,8 @@
 
   ​              
 ## 第五阶段：  Vue.js项目实战
-### Vue.js基础
+### [Vue.js基础](https://cn.vuejs.org/v2/guide/)
+
 1. Vue实例
 2. 文本与属性绑定
 3. 计算属性computed
@@ -350,14 +351,14 @@
 12. 自定义指令
 13. Vue组件系统
 14. Vue过渡和动画
-15. VueRouter路由系统
+15. VueRouter路由系统 [链接](https://router.vuejs.org/zh/)
 16. 组件通信
 17. axios请求库
-18. VueCLI脚手架工具
+18. VueCLI脚手架工具 [链接](https://cli.vuejs.org/zh/guide/)
 19. VueDevTools调试工具
 20. 在Vue中操作DOM
 
-### webpack  
+### [webpack](https://www.webpackjs.com/concepts/)
 
 1. 安装与基本配置
 2. 打包JavaScript模块
@@ -436,6 +437,7 @@
 ### 小程序基础
 
 1、小程序注册2、小程序开发者工具使用教程3、小程序配置文件4、小程序常用组件5、小程序的模板语法6、小程序中的样式编写7、小程序中的JavaScript8、小程序应用及页的生命周期9、小程序常用API10、小程序中的自定组件11、小程序插件开发12、小程序分包加载13、小程序基础库版及兼容处理14、小程序运行机制15、小程序性能分析及优化16、小程序云开发、云函数、云数据库17、小程序上线和发布
+
 ### 可掌握的核心能力：
 
 * 能够掌握小程序的开发基础；
