@@ -1,6 +1,6 @@
 ## 前端
 1. [新建vue项目](./web/VUE新建项目.md)
-2. [VSCode快捷键-WIndows](./web/VSCode快捷键_Windows.md)  
+2. [VSCode快捷键-Windows](./web/VSCode快捷键_Windows.md)  
 3. [VSCode快捷键_Mac](./web/VSCode快捷键_Mac.md)
 4. [前端学习大纲](./web/web.md)
 5. [问题记录](./web/question.md)
