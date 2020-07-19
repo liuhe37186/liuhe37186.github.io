@@ -2,7 +2,6 @@
 1. [新建vue项目](./web/VUE新建项目.md)
 2. [VSCode快捷键](./web/VSCode快捷键.md)  
 3. [前端学习大纲](./web/web.md)
-4. [问题记录](./web/question.md)
 
 ## Flutter
 1. [Flutter学习笔记](./Flutter/Flutter学习.md)
